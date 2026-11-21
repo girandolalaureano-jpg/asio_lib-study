@@ -1,0 +1,9 @@
+C:/Users/Laureano/OneDrive/Desktop/workplace/asio_lib-study/timers/CMakeFiles/timer_1.dir
+C:/Users/Laureano/OneDrive/Desktop/workplace/asio_lib-study/timers/CMakeFiles/timer_2.dir
+C:/Users/Laureano/OneDrive/Desktop/workplace/asio_lib-study/timers/CMakeFiles/timer_3.dir
+C:/Users/Laureano/OneDrive/Desktop/workplace/asio_lib-study/timers/CMakeFiles/edit_cache.dir
+C:/Users/Laureano/OneDrive/Desktop/workplace/asio_lib-study/timers/CMakeFiles/rebuild_cache.dir
+C:/Users/Laureano/OneDrive/Desktop/workplace/asio_lib-study/timers/external/CMakeFiles/edit_cache.dir
+C:/Users/Laureano/OneDrive/Desktop/workplace/asio_lib-study/timers/external/CMakeFiles/rebuild_cache.dir
+C:/Users/Laureano/OneDrive/Desktop/workplace/asio_lib-study/timers/src/CMakeFiles/edit_cache.dir
+C:/Users/Laureano/OneDrive/Desktop/workplace/asio_lib-study/timers/src/CMakeFiles/rebuild_cache.dir
