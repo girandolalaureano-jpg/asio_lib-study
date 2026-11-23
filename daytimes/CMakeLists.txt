@@ -16,6 +16,8 @@ FetchContent_Declare(
 FetchContent_MakeAvailable(asio)
 
 add_executable(daytime1)
+add_executable(daytime2)
+add_executable(daytime3)
 
 add_subdirectory(external)
 add_subdirectory(src)
@@ -24,3 +26,10 @@ target_link_libraries(daytime1
 PRIVATE asio
 )
 
+target_link_libraries(daytime2
+PRIVATE asio
+)
+
+target_link_libraries(daytime3
+PRIVATE asio
+)
