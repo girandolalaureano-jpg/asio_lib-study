@@ -1,0 +1,1 @@
+target_sources(daytime1 PRIVATE daytime1.cpp)
