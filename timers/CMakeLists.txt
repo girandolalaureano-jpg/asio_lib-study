@@ -15,7 +15,8 @@ FetchContent_MakeAvailable(asio)
 add_executable(timer_1)
 add_executable(timer_2)
 add_executable(timer_3)
-
+add_executable(timer_4)
+add_executable(timer_5)
 
 add_subdirectory(external)
 add_subdirectory(src)
@@ -29,5 +30,13 @@ PRIVATE asio
 )
 
 target_link_libraries(timer_3
+PRIVATE asio
+)
+
+target_link_libraries(timer_4
+PRIVATE asio
+)
+
+target_link_libraries(timer_5
 PRIVATE asio
 )
