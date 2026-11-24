@@ -1,7 +1,7 @@
 CMakeFiles/
-.ninja
-.ninja_deps
-.cmake
+*.ninja
+*.ninja_deps
+*.cmake
 CMakeCache.txt
 external/asio/
-.exe
+*.exe

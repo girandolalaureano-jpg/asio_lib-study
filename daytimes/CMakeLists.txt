@@ -20,6 +20,7 @@ add_executable(daytime2)
 add_executable(daytime3)
 add_executable(daytime4)
 add_executable(daytime5)
+add_executable(daytime6)
 
 add_subdirectory(external)
 add_subdirectory(src)
@@ -42,4 +43,8 @@ PRIVATE asio
 
 target_link_libraries(daytime5
 PRIVATE asio
+)
+
+target_link_libraries(daytime6
+private asio
 )
