@@ -1,0 +1,7 @@
+*.exe
+*.ninja
+*.cmake
+CMakeCache.txt
+CMakeFiles/
+_deps/
+src/CMakeFiles/

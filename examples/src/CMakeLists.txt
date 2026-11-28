@@ -1,0 +1,1 @@
+target_sources(rockpaperscissor PRIVATE rockpaperscissor.cpp)

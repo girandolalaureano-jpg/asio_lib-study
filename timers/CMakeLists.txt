@@ -24,7 +24,7 @@ add_subdirectory(src)
 target_link_libraries(timer_1
 PRIVATE asio
 )
-
+cd
 target_link_libraries(timer_2
 PRIVATE asio
 )
